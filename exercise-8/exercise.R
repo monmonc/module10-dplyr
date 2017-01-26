@@ -34,7 +34,7 @@ mortality.less <- swiss.data %>%
 
 #Filter one of the columns based on a question that you may have (which regions have a higher
 #education rate, etc.) and write that to a csv file
-
+#Question: Which
   
 # Create a function that can take in two different region names and compare them based on a statistic 
 # Of your choice (education, Examination, ect.)  print out a statment describing which one is greater 
